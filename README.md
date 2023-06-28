@@ -1,6 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0554F2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9D9D9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Victor+Alves;Eu+tenho+18+anos;Moro+em+São+Paulo;E+estou+iniciando+nos+estudos+de+Front-End.;Seja+bem-vindo+ao+meu+github!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9D9D9&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Victor+Alves;Eu+tenho+18+anos;Moro+em+Santo+André/SP;E+estou+iniciando+nos+estudos+de+Front-End.;Seja+bem-vindo+ao+meu+github!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -16,11 +15,8 @@
   <a href="https://wa.me/5511940557565" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  </div>
 
- ### Linguagens que estou estudando no momento:
+ <div align="center"> - Linguagens que estou estudando no momento -
+
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0554F2&height=120&section=footer"/>
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp; </div>
